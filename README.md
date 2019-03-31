@@ -18,6 +18,10 @@
 4. transition:
 
 
+### study guide
+
+ReactJS - Build a Responsive Navigation Bar & Side Drawer Tutorial by Academind
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
